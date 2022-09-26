@@ -1,11 +1,11 @@
 /* Estilo aplicado nos elementos da seção body */
 body {
     /* Configuração de fonte */
-    font-family: Helvetica;
+    font-family: Arial;
     /* alihamento de texto centralizado */
     text-align: center;
-    color: white;
-    background-color: #333;
+    color: red;
+    background-color: white;
     /* Reset the margem e pandding */
     padding: 0;
     margin: 0;
@@ -15,9 +15,9 @@ body {
 nav{
     display: flex;
     justify-content: space-between;
-    padding: 20px;
+    padding: 60px;
     align-items: center;
-    border-bottom: 1px solid #666; 
+    border-bottom: 5px solid red; 
 }
 
 /* Estilo aplicado na lista da seção nav */
@@ -27,25 +27,27 @@ nav ul {
 }
 
 ul li {
-    margin-right: 12px;
+    margin-right: 75px;
 }
 
 ul li a {
-    color:  #fff;
+    color: red;
     text-decoration: none;
     transition: 0.5s;
 }
 
 ul li a:hover {
-    color: rgb(15, 89, 150);
+    color: blue;
 }
 
 footer {
     padding: 20px;
-    border-top: 1px solid #666;
+    border-top: 5px solid red;
     margin-top: 20px;
 }
-img{
-    border: 3px solid rgb(25, 194, 218);
-    height: 300px;
-}
+
+img1 {
+    border: 3px solid red;
+    height: 30px;
+    width: 110px;
+}   

@@ -1,0 +1,19 @@
+*{
+    margin: 5px;
+    padding: 3px;
+}
+body {
+    /* Configuração de fonte */
+    font-family: Arial;
+    
+    }
+
+    #div-paragrafos {
+        color: rgb(255, 246, 240);
+        background-color: red
+    }
+
+    .Longo {
+        color: rgb(255, 246, 240);
+        background: red;
+    }
