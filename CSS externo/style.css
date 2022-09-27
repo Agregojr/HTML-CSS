@@ -1,6 +1,7 @@
 *{
     margin: 5px;
     padding: 3px;
+    font-size: 15px;
 }
 body {
     /* Configuração de fonte */
@@ -17,3 +18,19 @@ body {
         color: rgb(255, 246, 240);
         background: red;
     }
+
+h1>b{
+    font-size: 30px;
+}
+
+#div-paragrafos>h2>p{
+    font-size: 14px;
+}
+
+#curso{
+    position: absolute;
+    height: 100px;
+    width: 250px;
+    top: 0px;
+    left: 75%;
+}
