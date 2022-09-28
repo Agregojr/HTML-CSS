@@ -1,7 +1,7 @@
 *{
     margin: 5px;
     padding: 3px;
-    font-size: 15px;
+    font-size: 20px;
 }
 body {
     /* Configuração de fonte */
@@ -24,7 +24,7 @@ h1>b{
 }
 
 #div-paragrafos>h2>p{
-    font-size: 14px;
+    font-size: 18px;
 }
 
 #curso{

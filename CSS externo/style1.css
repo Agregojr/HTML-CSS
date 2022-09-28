@@ -2,6 +2,7 @@
 body {
     /* Configuração de fonte */
     font-family: Arial;
+    font-size: 20px;
     /* alihamento de texto centralizado */
     text-align: center;
     color: red;
@@ -28,6 +29,7 @@ nav ul {
 
 ul li {
     margin-right: 75px;
+    font-size: 18px;
 }
 
 ul li a {
